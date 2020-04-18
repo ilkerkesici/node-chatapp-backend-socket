@@ -1,4 +1,4 @@
-# Node.js Chat App With Socket
+# Node.js Chat API With Socket
 
 > Clean and minimalist Node.js template for a quick start with Chat Applications.
 
@@ -8,6 +8,14 @@
 - Update last seen status of the user
 - Send data when a user connected or disconnected
 - Update reading status of messages
+- User authentication with JWT
+
+## :iphone: Client
+
+This project connected with a react-native project. You can see more info about the client-side of this project here: 
+<a href="https://github.com/ilkerkesici/react-native-chatapp-socket"> 
+  https://github.com/ilkerkesici/react-native-chatapp-socket 
+</a>
 
 
 
